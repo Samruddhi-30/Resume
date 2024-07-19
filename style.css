@@ -1,0 +1,21 @@
+img{
+    border-radius: 50%;
+}
+
+body{
+    background-color: rgb(177, 238, 238);
+    
+}
+
+.qual{
+    text-align: center;
+    margin: 100;
+    padding: 500;
+    position: relative;
+    
+}
+
+.foot{
+    text-align: center;
+    padding: 500;
+}
